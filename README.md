@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TalhaAbid420/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/TalhaAbid420/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TalhaAbid420/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [1370-increasing-decreasing-string](https://github.com/TalhaAbid420/leetcode/tree/master/1370-increasing-decreasing-string) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TalhaAbid420/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1370-increasing-decreasing-string](https://github.com/TalhaAbid420/leetcode/tree/master/1370-increasing-decreasing-string) |
 ## Stack
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/TalhaAbid420/leetcode/tree/master/3024-type-of-triangle) |
+## Counting
+|  |
+| ------- |
+| [1370-increasing-decreasing-string](https://github.com/TalhaAbid420/leetcode/tree/master/1370-increasing-decreasing-string) |
 <!---LeetCode Topics End-->
