@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/TalhaAbid420/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/TalhaAbid420/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/TalhaAbid420/leetcode/tree/master/0704-binary-search) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TalhaAbid420/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/TalhaAbid420/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/TalhaAbid420/leetcode/tree/master/1929-concatenation-of-array) |
 | [3024-type-of-triangle](https://github.com/TalhaAbid420/leetcode/tree/master/3024-type-of-triangle) |
@@ -68,9 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TalhaAbid420/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3024-type-of-triangle](https://github.com/TalhaAbid420/leetcode/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
 | [1370-increasing-decreasing-string](https://github.com/TalhaAbid420/leetcode/tree/master/1370-increasing-decreasing-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TalhaAbid420/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
