@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/TalhaAbid420/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/TalhaAbid420/leetcode/tree/master/0367-valid-perfect-square) |
 | [3024-type-of-triangle](https://github.com/TalhaAbid420/leetcode/tree/master/3024-type-of-triangle) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/TalhaAbid420/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TalhaAbid420/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/TalhaAbid420/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
