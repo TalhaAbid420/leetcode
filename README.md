@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TalhaAbid420/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TalhaAbid420/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TalhaAbid420/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/TalhaAbid420/leetcode/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/TalhaAbid420/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/TalhaAbid420/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TalhaAbid420/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TalhaAbid420/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/TalhaAbid420/leetcode/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/TalhaAbid420/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/TalhaAbid420/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/TalhaAbid420/leetcode/tree/master/0704-binary-search) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/TalhaAbid420/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/TalhaAbid420/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/TalhaAbid420/leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/TalhaAbid420/leetcode/tree/master/0367-valid-perfect-square) |
 | [3024-type-of-triangle](https://github.com/TalhaAbid420/leetcode/tree/master/3024-type-of-triangle) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TalhaAbid420/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
