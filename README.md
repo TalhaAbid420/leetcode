@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TalhaAbid420/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TalhaAbid420/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TalhaAbid420/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TalhaAbid420/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/TalhaAbid420/leetcode/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/TalhaAbid420/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/TalhaAbid420/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TalhaAbid420/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TalhaAbid420/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TalhaAbid420/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/TalhaAbid420/leetcode/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/TalhaAbid420/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/TalhaAbid420/leetcode/tree/master/0682-baseball-game) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/TalhaAbid420/leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TalhaAbid420/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/TalhaAbid420/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/TalhaAbid420/leetcode/tree/master/0704-binary-search) |
 ## Math
