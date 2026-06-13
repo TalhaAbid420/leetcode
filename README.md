@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/TalhaAbid420/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/TalhaAbid420/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/TalhaAbid420/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TalhaAbid420/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/TalhaAbid420/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/TalhaAbid420/leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/TalhaAbid420/leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/TalhaAbid420/leetcode/tree/master/0412-fizz-buzz) |
 | [3024-type-of-triangle](https://github.com/TalhaAbid420/leetcode/tree/master/3024-type-of-triangle) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TalhaAbid420/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TalhaAbid420/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/TalhaAbid420/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TalhaAbid420/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/TalhaAbid420/leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/TalhaAbid420/leetcode/tree/master/0771-jewels-and-stones) |
 | [1370-increasing-decreasing-string](https://github.com/TalhaAbid420/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1768-merge-strings-alternately](https://github.com/TalhaAbid420/leetcode/tree/master/1768-merge-strings-alternately) |
