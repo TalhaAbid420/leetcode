@@ -2,14 +2,13 @@ class Solution(object):
     def fizzBuzz(self, n):
         result = []
         for i in range(1, n+1):
-            if i % 3 == 0 and i % 5 == 0:
-                result.append("FizzBuzz")
-            elif i % 5 == 0:
-                result.append("Buzz")
-            elif i % 3 == 0:
-                result.append("Fizz")
-            else:
-                result.append(str(i))
+            string = ""
+            if i % 3 == 0:
+                string += "Fizz"
+            if i % 5 == 0:
+                string += "Buzz"
+
+            result.append(string or str(i))
 
         return result
         
