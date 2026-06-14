@@ -3,4 +3,3 @@ class Solution(object):
         ans = nums + nums
         return ans
         
-        
