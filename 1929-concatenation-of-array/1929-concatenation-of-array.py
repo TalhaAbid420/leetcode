@@ -1,4 +1,6 @@
-class Solution:
-    def getConcatenation(self, nums: List[int]) -> List[int]:
-        return nums * 2
-    
+class Solution(object):
+    def getConcatenation(self, nums):
+        ans = nums + nums
+        return ans
+        
+        
