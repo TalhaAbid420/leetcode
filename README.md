@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TalhaAbid420/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/TalhaAbid420/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TalhaAbid420/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/TalhaAbid420/leetcode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/TalhaAbid420/leetcode/tree/master/0771-jewels-and-stones) |
 | [1370-increasing-decreasing-string](https://github.com/TalhaAbid420/leetcode/tree/master/1370-increasing-decreasing-string) |
 ## Array
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TalhaAbid420/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/TalhaAbid420/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/TalhaAbid420/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TalhaAbid420/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/TalhaAbid420/leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/TalhaAbid420/leetcode/tree/master/0771-jewels-and-stones) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/TalhaAbid420/leetcode/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/TalhaAbid420/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/TalhaAbid420/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TalhaAbid420/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
