@@ -1,8 +1,14 @@
-class Solution:
-    def shuffle(self, nums: List[int], n: int) -> List[int]:
+class Solution(object):
+    def shuffle(self, nums, n):
         
-        res = []
-        for i in range(n):    
-            res.append(nums[i])
-            res.append(nums[i + n])
-        return res
+        left = 0
+        right = n
+        result = []
+
+        while left < n:
+            result.append(nums[left])
+            result.append(nums[right])
+            left += 1
+            right += 1
+
+        return result
