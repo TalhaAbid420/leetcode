@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/TalhaAbid420/leetcode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/TalhaAbid420/leetcode/tree/master/0771-jewels-and-stones) |
 | [1370-increasing-decreasing-string](https://github.com/TalhaAbid420/leetcode/tree/master/1370-increasing-decreasing-string) |
+| [1512-number-of-good-pairs](https://github.com/TalhaAbid420/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TalhaAbid420/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/TalhaAbid420/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/TalhaAbid420/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/TalhaAbid420/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/TalhaAbid420/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TalhaAbid420/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/TalhaAbid420/leetcode/tree/master/1929-concatenation-of-array) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/TalhaAbid420/leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/TalhaAbid420/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/TalhaAbid420/leetcode/tree/master/0412-fizz-buzz) |
+| [1512-number-of-good-pairs](https://github.com/TalhaAbid420/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3024-type-of-triangle](https://github.com/TalhaAbid420/leetcode/tree/master/3024-type-of-triangle) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TalhaAbid420/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-increasing-decreasing-string](https://github.com/TalhaAbid420/leetcode/tree/master/1370-increasing-decreasing-string) |
+| [1512-number-of-good-pairs](https://github.com/TalhaAbid420/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
