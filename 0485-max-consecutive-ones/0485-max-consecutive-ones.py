@@ -6,12 +6,11 @@ class Solution(object):
 
         for num in nums:
 
-            if num == 1:
+            if num:
                 count += 1
+            else:
                 if count > max_count:
                     max_count = count
-
-            if num == 0:
                 count = 0
 
-        return max(count, max_count)
+        return count if count > max_count else max_count
