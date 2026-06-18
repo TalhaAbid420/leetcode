@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/TalhaAbid420/leetcode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/TalhaAbid420/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/TalhaAbid420/leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/TalhaAbid420/leetcode/tree/master/0796-rotate-string) |
 | [1370-increasing-decreasing-string](https://github.com/TalhaAbid420/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1768-merge-strings-alternately](https://github.com/TalhaAbid420/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TalhaAbid420/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -142,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/TalhaAbid420/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/TalhaAbid420/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
