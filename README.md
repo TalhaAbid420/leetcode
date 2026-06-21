@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/TalhaAbid420/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TalhaAbid420/leetcode/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/TalhaAbid420/leetcode/tree/master/0771-jewels-and-stones) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/TalhaAbid420/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/TalhaAbid420/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/TalhaAbid420/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/TalhaAbid420/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/TalhaAbid420/leetcode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/TalhaAbid420/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/TalhaAbid420/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/TalhaAbid420/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TalhaAbid420/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/TalhaAbid420/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/TalhaAbid420/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/TalhaAbid420/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/TalhaAbid420/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/TalhaAbid420/leetcode/tree/master/0796-rotate-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/TalhaAbid420/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/TalhaAbid420/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1768-merge-strings-alternately](https://github.com/TalhaAbid420/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TalhaAbid420/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/TalhaAbid420/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/TalhaAbid420/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/TalhaAbid420/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Heap (Priority Queue)
