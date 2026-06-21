@@ -4,8 +4,6 @@ class Solution(object):
         :type sentence: str
         :rtype: bool
         """
-        a_set = set()
-        for char in sentence:
-            a_set.add(char)
+        a_set = set(sentence)
         
         return len(a_set) == 26
