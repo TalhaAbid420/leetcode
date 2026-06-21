@@ -1,14 +1,25 @@
-class Solution:
-    def sortString(self, s: str) -> str:
-        s = list(s)
-        result = []
+class Solution(object):
+    def sortString(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        s_count = Counter(s)
+        res = []
+        total_len = len(s)
 
-        while len(s) > 0:
-            for i in sorted(set(s)):
-                result.append(i)
-                s.remove(i)
-            for i in sorted(set(s), reverse=True):
-                result.append(i)
-                s.remove(i)
-            
-        return "".join(result)
+        unique_char = sorted(s_count.keys())
+
+        while len(res) < total_len:
+            for char in unique_char:
+                if s_count[char] > 0:
+                    res.append(char)
+                    s_count[char] -= 1
+
+            for char in reversed(unique_char):
+                if s_count[char] > 0:
+                    res.append(char)
+                    s_count[char] -= 1
+
+        return "".join(res)
+        
