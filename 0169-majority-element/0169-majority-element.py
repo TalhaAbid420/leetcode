@@ -1,13 +1,16 @@
-class Solution:
+class Solution(object):
     def majorityElement(self, nums):
-        
-        freq = {}
+        candidate = None
+        count = 0
 
         for num in nums:
-            freq[num] = freq.get(num, 0) + 1
+            if count == 0:
+                candidate = num
 
-        limit = len(nums) // 2
+            if num == candidate:
+                count += 1
+            else:
+                count -= 1
 
-        for num, count in freq.items():
-            if count > limit:
-                return num
+        return candidate
+        
