@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/TalhaAbid420/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/TalhaAbid420/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/TalhaAbid420/leetcode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/TalhaAbid420/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/TalhaAbid420/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TalhaAbid420/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/TalhaAbid420/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TalhaAbid420/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/TalhaAbid420/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TalhaAbid420/leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/TalhaAbid420/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TalhaAbid420/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TalhaAbid420/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/TalhaAbid420/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TalhaAbid420/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/TalhaAbid420/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/TalhaAbid420/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TalhaAbid420/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/TalhaAbid420/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TalhaAbid420/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/TalhaAbid420/leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/TalhaAbid420/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TalhaAbid420/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/TalhaAbid420/leetcode/tree/master/1370-increasing-decreasing-string) |
