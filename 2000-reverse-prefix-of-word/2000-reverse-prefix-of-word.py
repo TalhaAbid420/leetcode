@@ -1,8 +1,20 @@
 class Solution(object):
     def reversePrefix(self, word, ch):
+        
         idx = word.find(ch)
 
         if idx == -1:
             return word
 
-        return word[:idx+1][::-1] + word[idx+1:]
+        chars = list(word)
+
+        left = 0
+        right = idx
+
+        while left < right:
+            chars[left], chars[right] = chars[right], chars[left]
+
+            left += 1
+            right -= 1
+
+        return "".join(chars)
