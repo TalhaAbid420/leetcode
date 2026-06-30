@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/TalhaAbid420/leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/TalhaAbid420/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/TalhaAbid420/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/TalhaAbid420/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/TalhaAbid420/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/TalhaAbid420/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/TalhaAbid420/leetcode/tree/master/2418-sort-the-people) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/TalhaAbid420/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/TalhaAbid420/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Array
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TalhaAbid420/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/TalhaAbid420/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/TalhaAbid420/leetcode/tree/master/2418-sort-the-people) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/TalhaAbid420/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/TalhaAbid420/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3024-type-of-triangle](https://github.com/TalhaAbid420/leetcode/tree/master/3024-type-of-triangle) |
 ## Simulation
