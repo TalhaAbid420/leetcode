@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/TalhaAbid420/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/TalhaAbid420/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/TalhaAbid420/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/TalhaAbid420/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/TalhaAbid420/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1754-largest-merge-of-two-strings](https://github.com/TalhaAbid420/leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/TalhaAbid420/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/TalhaAbid420/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/TalhaAbid420/leetcode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/TalhaAbid420/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/TalhaAbid420/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/TalhaAbid420/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TalhaAbid420/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/TalhaAbid420/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TalhaAbid420/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/TalhaAbid420/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/TalhaAbid420/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/TalhaAbid420/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/TalhaAbid420/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TalhaAbid420/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/TalhaAbid420/leetcode/tree/master/2418-sort-the-people) |
