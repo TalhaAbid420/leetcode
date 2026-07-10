@@ -1,12 +1,17 @@
 class Solution(object):
     def countGoodSubstrings(self, s):
-        ans = 0
         
-        for i in range(len(s) - 2):
-            substring = s[i: i+3]
+        left = 0
+        ans = 0
 
-            if len(set(substring)) == 3:
-                ans += 1
+        for right in range(len(s)):
+
+            if right - left + 1 == 3:
+
+                if len(set(s[left:right+1])) == 3:
+
+                    ans += 1
+
+                left += 1
 
         return ans
-        
